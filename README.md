@@ -1,2 +1,2 @@
-# jenkins-test
-Project to test Jenkins
+# cicd-tools
+Exercise files for "Continuous Integration: Tools"
